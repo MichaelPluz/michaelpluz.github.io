@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+I have solid over 15 years experience in web developing: back-end (PHP) together with data/DBs (MySQL) and also front-end (JavaScript/HTML/CSS).
 
-You can use the [editor on GitHub](https://github.com/MichaelPluz/michaelpluz.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+There are program languages/technologies etc. I got experience in:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- PHP
+- Laravel, CodeIgniter
+- JavaScript, jQuery, AJAX
+- VueJS
+- HTML, CSS, XML, JSON
+- MySQL, phpMyAdmin
+- Linux, Ubuntu
+- Git, GitHub, Composer, Docker
+- Jira, Trello
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Samples of my works
 
-```markdown
-Syntax highlighted code block
+- [Vue 3 Wage Calculator ](https://michaelpluz.github.io/wage-calculator/)
 
-# Header 1
-## Header 2
-### Header 3
+- [Vue 2 + Vuetify Roll Calculator. Vuetify preset Crane applied.](https://michaelpluz.github.io/roll-calculator/
+)
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MichaelPluz/michaelpluz.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
