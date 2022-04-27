@@ -15,8 +15,9 @@ There are program languages/technologies etc. I got experience in:
 
 ## Samples of my works
 
-- [Vue 3 Wage Calculator ](https://michaelpluz.github.io/wage-calculator/)
+- [Vue 3 Wage Calculator.](https://michaelpluz.github.io/wage-calculator/)
 
 - [Vue 2 + Vuetify Roll Calculator. Vuetify preset Crane applied.](https://michaelpluz.github.io/roll-calculator/
 )
 
+- [Three.js application. Position text over image.](/PutTextOverImage3D/)
