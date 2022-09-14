@@ -23,6 +23,6 @@ There are program languages/technologies etc. I got experience in:
 
 - [Three.js application. Position text over image.](/PutTextOverImage3D/)
 
-- [Kazakhstan Bank Reports](/bank-reports/) The app displays Kazakhstan Bank Reports in single chart.
+- [Kazakhstan Bank Reports](https://pluzh.rf.gd/bank-reports/) The app displays Kazakhstan Bank Reports in single chart.
  **ReactJS, TypeScript,Redux, Chart.js, language support (i18n), Bootstrap**. 
 
