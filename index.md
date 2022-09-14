@@ -6,6 +6,7 @@ There are program languages/technologies etc. I got experience in:
 - Laravel, CodeIgniter
 - JavaScript, jQuery, AJAX
 - VueJS
+- ReactJS
 - HTML, CSS, XML, JSON
 - MySQL, phpMyAdmin
 - Linux, Ubuntu
@@ -21,3 +22,7 @@ There are program languages/technologies etc. I got experience in:
 )
 
 - [Three.js application. Position text over image.](/PutTextOverImage3D/)
+
+- [Kazakhstan Bank Reports](/bank-reports/) The app displays Kazakhstan Bank Reports in single chart.
+ **ReactJS, TypeScript,Redux, Chart.js, language support (i18n), Bootstrap**. 
+
