@@ -24,5 +24,5 @@ There are program languages/technologies etc. I got experience in:
 - [Three.js application. Position text over image.](/PutTextOverImage3D/)
 
 - [Kazakhstan Bank Reports](http://banks.rf.gd/) The app displays Kazakhstan Bank Reports in single chart.
- **ReactJS, TypeScript,Redux, Chart.js, language support (i18n), Bootstrap**. 
+ **ReactJS, TypeScript, Redux, Bootstrap, Chart.js, language support (i18n)**. 
 
