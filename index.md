@@ -3,7 +3,7 @@ I have solid over 15 years experience in web developing: back-end (PHP) together
 There are program languages/technologies etc. I got experience in:
 
 - PHP
-- Laravel, CodeIgniter
+- Laravel, CakePHP, CodeIgniter
 - JavaScript, jQuery, AJAX
 - VueJS
 - ReactJS
@@ -26,3 +26,5 @@ There are program languages/technologies etc. I got experience in:
 - [Kazakhstan Bank Reports](http://banks.rf.gd/app.html) The app displays Kazakhstan Bank Reports in single chart.
  **ReactJS, TypeScript, Redux, Bootstrap, Chart.js, language support (i18n)**. 
 
+- [My Weather application](http://my-weather.rf.gd) Weather application.
+ **ReactJS, TypeScript, Redux, Redux Thunk,  Tailwind CSS, React Router, language support (i18n)**. 
