@@ -1,4 +1,4 @@
-I have solid over 15 years experience in web developing: back-end (PHP) together with data/DBs (MySQL) and also front-end (JavaScript/HTML/CSS).
+I have solid over 17 years experience in web developing: back-end (PHP) together with data/DBs (MySQL) and also front-end (JavaScript/HTML/CSS).
 
 There are program languages/technologies etc. I got experience in:
 
@@ -23,8 +23,8 @@ There are program languages/technologies etc. I got experience in:
 
 - [Three.js application. Position text over image.](/PutTextOverImage3D/)
 
-- [Kazakhstan Bank Reports](http://banks.rf.gd/app.html) The app displays Kazakhstan Bank Reports in single chart.
+- [Kazakhstan Bank Reports]() The app displays Kazakhstan Bank Reports in single chart.
  **ReactJS, TypeScript, Redux, Bootstrap, Chart.js, language support (i18n)**. 
 
-- [My Weather application](http://my-weather.rf.gd) Weather application.
- **ReactJS, TypeScript, Redux, Redux Thunk,  Tailwind CSS, React Router, language support (i18n)**. 
+- [My Weather application](https://myweatherappdemo.000webhostapp.com/) Weather application.
+ **ReactJS, TypeScript, Redux, Redux Thunk,  Tailwind CSS, React Router, PWA, language support (i18n)**. 
