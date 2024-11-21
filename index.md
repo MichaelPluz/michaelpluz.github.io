@@ -26,5 +26,5 @@ There are program languages/technologies etc. I got experience in:
 - [Kazakhstan Bank Reports]() The app displays Kazakhstan Bank Reports in single chart.
  **ReactJS, TypeScript, Redux, Bootstrap, Chart.js, language support (i18n)**. 
 
-- [My Weather application](https://myweatherappdemo.000webhostapp.com/) Weather application.
+- [My Weather application](https://michaelpluz.github.io/weather-app/) Weather application.
  **ReactJS, TypeScript, Redux, Redux Thunk,  Tailwind CSS, React Router, PWA, language support (i18n)**. 
